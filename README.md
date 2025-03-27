@@ -1,4 +1,4 @@
-🎂 ## Cakes E-Commerce Website
+ ## Cakes E-Commerce Website
 
 📌 Overview
 
@@ -6,7 +6,7 @@ Welcome to the Cakes E-Commerce Website! This is a React-based online store wher
 
 URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
 
-🚀 ## Features:
+ ## Features
 - 🌐 Category Filtering: Users can filter cakes by category.
 
 - 🎨 Responsive Design: The UI adapts to different screen sizes.
