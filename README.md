@@ -19,6 +19,7 @@ URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
 
 - 🆙 Scroll to Top: Ensures users always see fresh content when navigating.
 
+
   ##  Technologies Used:
 
    - React: Frontend library
@@ -28,8 +29,26 @@ URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
    - React Router: Handling navigation
    
    - ShadCN/UI: UI components
+
  
   ##  Project Structure:
+
+    ```
+bash
+📁 src
+ ┣ 📁 components
+ ┃ ┣ 📂 ui
+ ┃ ┃ ┣ 📜 Button.js
+ ┃ ┃ ┣ 📜 ProductCard.js
+ ┃ ┣ 📜 Products.js
+ ┣ 📁 data
+ ┃ ┣ 📜 products.js  # Contains product data
+ ┣ 📁 pages
+ ┃ ┣ 📜 Home.js
+ ┃ ┣ 📜 ProductDetails.js
+ ┣ 📜 App.js
+ ┣ 📜 index.js
+```
 
 There are several ways of editing your application.
 
