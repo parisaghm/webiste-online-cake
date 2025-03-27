@@ -1,7 +1,8 @@
-Welcome to your Project
+🎂 Cakes E-Commerce Website
 
-Project info
+📌 Overview
 
+Welcome to the Cakes E-Commerce Website! This is a React-based online store where users can browse and filter cakes by categories such as birthday cakes, wedding cakes, and specialty cakes. The project focuses on delivering a smooth user experience with an intuitive UI.
 URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
 
 How can I edit this code?
