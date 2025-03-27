@@ -19,6 +19,16 @@ URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
 
 - 🆙 Scroll to Top: Ensures users always see fresh content when navigating.
 
+  ##  Technologies Used:
+
+   - React: Frontend library
+   
+   - Tailwind CSS: Styling and responsiveness
+   
+   - React Router: Handling navigation
+   
+   - ShadCN/UI: UI components
+
 There are several ways of editing your application.
 
 Use the Online Editor
