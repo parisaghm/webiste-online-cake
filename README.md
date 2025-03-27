@@ -1,4 +1,4 @@
-🎂 Cakes E-Commerce Website
+##🎂 Cakes E-Commerce Website
 
 📌 Overview
 
@@ -6,18 +6,18 @@ Welcome to the Cakes E-Commerce Website! This is a React-based online store wher
 
 URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
 
-🚀 Features:
--🌐 Category Filtering: Users can filter cakes by category.
+##🚀 Features:
+- 🌐 Category Filtering: Users can filter cakes by category.
 
--🎨 Responsive Design: The UI adapts to different screen sizes.
+- 🎨 Responsive Design: The UI adapts to different screen sizes.
 
--⚡ Smooth Animations: Components have fade-in animations.
+- ⚡ Smooth Animations: Components have fade-in animations.
 
--🔍 Product Display: Cakes are displayed in a grid format with individual product cards.
+- 🔍 Product Display: Cakes are displayed in a grid format with individual product cards.
 
--📜 Dynamic Routing: Uses React Router for seamless navigation.
+- 📜 Dynamic Routing: Uses React Router for seamless navigation.
 
--🆙 Scroll to Top: Ensures users always see fresh content when navigating.
+- 🆙 Scroll to Top: Ensures users always see fresh content when navigating.
 
 There are several ways of editing your application.
 
