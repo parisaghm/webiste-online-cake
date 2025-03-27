@@ -31,26 +31,27 @@ URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
    - ShadCN/UI: UI components
 
  
-  ##  Project Structure:
-
-    ```
+## Project Structure
+```
 bash
 .
-📁 src
- ┣ 📁 components
- ┃ ┣ 📂 ui
- ┃ ┃ ┣ 📜 Button.js
- ┃ ┃ ┣ 📜 ProductCard.js
- ┃ ┣ 📜 Products.js
- ┣ 📁 data
- ┃ ┣ 📜 products.js  # Contains product data
- ┣ 📁 pages
- ┃ ┣ 📜 Home.js
- ┃ ┣ 📜 ProductDetails.js
- ┣ 📜 App.js
- ┣ 📜 index.js
+├── public                # Static assets (e.g., images)
+├── src
+│   ├── assets            # Application-specific assets
+│   ├── components        # Vue components (ProductList, CartList)
+│   ├── App.vue           # Main app component
+│   ├── main.js           # Entry point for Vue app
+├── package.json          # Project metadata and dependencies
+└── README.md             # Project documentation
 ```
 
+##  Getting Started:
+
+1. Clone the Repository
+    ```
+git clone https://github.com/yourusername/cakes-ecommerce.git
+cd cakes-ecommerce
+```
 There are several ways of editing your application.
 
 Use the Online Editor
