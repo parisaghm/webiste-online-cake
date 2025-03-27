@@ -28,6 +28,8 @@ URL: https://yourproject.dev/projects/3e729b5d-889b-490e-98c4-6e9f8d039e3c
    - React Router: Handling navigation
    
    - ShadCN/UI: UI components
+ 
+  ##  Project Structure:
 
 There are several ways of editing your application.
 
