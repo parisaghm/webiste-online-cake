@@ -6,7 +6,8 @@ Welcome to the Cakes E-Commerce Website! This is a React-based online store wher
 
 URL: https://cake-shop-orpin.vercel.app/
 
-![Uploading 678.PNG…]()
+![678](https://github.com/user-attachments/assets/aa12b608-2e93-4106-b14a-ea98ba9a8363)
+
 
 
  ## Features
