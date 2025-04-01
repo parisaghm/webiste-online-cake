@@ -6,6 +6,9 @@ Welcome to the Cakes E-Commerce Website! This is a React-based online store wher
 
 URL: https://cake-shop-orpin.vercel.app/
 
+![Uploading 678.PNG…]()
+
+
  ## Features
 - 🌐 Category Filtering: Users can filter cakes by category.
 
