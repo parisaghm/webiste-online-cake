@@ -4,9 +4,7 @@
 
 Welcome to the Cakes E-Commerce Website! This is a React-based online store where users can browse and filter cakes by categories such as birthday cakes, wedding cakes, and specialty cakes. The project focuses on delivering a smooth user experience with an intuitive UI.
 
-URL: [https://cake-shop-orpin.vercel.app/
-](https://weather-app-chi-seven-30.vercel.app/)
-![678](https://github.com/user-attachments/assets/aa12b608-2e93-4106-b14a-ea98ba9a8363)
+URL: https://cake-shop-orpin.vercel.app/
 
 
 
